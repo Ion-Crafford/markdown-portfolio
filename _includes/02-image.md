@@ -1,1 +1,1 @@
-[hello]"C:\Users\ioncr\OneDrive\Pictures\Screenshots\Screenshot (46).png"
+![Image of cat](https://octodex.github.com/images/cat.png).
